@@ -1,4 +1,4 @@
-# wir_project 2018
+# Earthquake Shakes Twitter Users: Event Detection by Social Sensors [Web Information Retrieval]
 
 Authors: Matteo Mariani & Riccardo Chiaretti
 
