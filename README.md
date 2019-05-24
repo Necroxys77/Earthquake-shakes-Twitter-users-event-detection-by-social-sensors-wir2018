@@ -1,6 +1,6 @@
 # Earthquake Shakes Twitter Users: Event Detection by Social Sensors [Web Information Retrieval]
 
-Authors: Matteo Mariani & Riccardo Chiaretti
+Authors: Matteo Mariani & Riccardo Chiaretti.
 
 Earthquake event detection through tweet analysis using:
 - Tweepy
